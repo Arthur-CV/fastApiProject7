@@ -1,0 +1,5 @@
+1 fastapi
+2 uvicorn
+3 sqlalchemy
+4 passlib
+5 bcrypt
